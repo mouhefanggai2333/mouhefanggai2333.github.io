@@ -3,7 +3,7 @@ title: "OctFormer: Efficient Octree-Based Transformer for Point Cloud Compressio
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2023
+date: 2023-10-1
 venue: 'Proceedings of the 2023 AAAI Conference on Artificial Intelligence (AAAI)'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
