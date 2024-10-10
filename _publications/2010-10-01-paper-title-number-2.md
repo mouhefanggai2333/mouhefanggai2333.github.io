@@ -2,9 +2,9 @@
 title: A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression
 collection: publications
 permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
+excerpt: ''
 date: 2024-05-14
-venue: 'Journal 1'
+venue: '2024 IEEE International Conference on Robotics and Automation (ICRA)'
 slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
 paperurl: 'http://academicpages.github.io/files/paper2.pdf'
 citation: 'M. Cui, M. Feng, J. Long, D. Hu, S. Zhao, and K. Huang*. A Du-Octree based Cross-Attention Model for LiDAR Geometry Compression，2024 IEEE International Conference on Robotics and Automation (ICRA).'
