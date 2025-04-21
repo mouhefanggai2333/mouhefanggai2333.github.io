@@ -1,13 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression"
 collection: publications
 permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
+excerpt: ''
+date: 2024-05-30
+venue: '2024 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM)'
 slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+citation: 'J. Long, M. Feng, B. Li, Y. Ling, C. Wu, K. Huang, and M. Cui*, An End-to-End ConvLSTM-based Method for Point Cloud Streaming Compression, 2024 IEEE International Conference on Advanced Robotics and Mechatronics (ICARM).'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+The processing and transmission of point cloud frame sequences is an important part of the applications of 3D LiDAR. However, due to the disorderliness and irregularity of the huge amount of point cloud data collected by 3D LiDAR sensor, finding an effective method to compress the point cloud data to a small volume is an urgent problem. In this paper, we propose spatio-temporal features sensitive neural network SPCCNet with an encoder-decoder structure to compress point cloud streams. To reduce information loss in point cloud preprocessing, we propose a unique convolution method on point sets. The curvature and density information are introduced to SPCCNet to enhance the raw point cloud data. Besides, the designed ConvLSTMlm and a Squeeze-and-Excitation (SE) Block are embedded to help SPCCNet learn the effective features of point cloud sequences. Experimental results show that compared with other methods, our SPCCNet can compress point cloud data with a higher compression ratio at an acceptable noise level. 
