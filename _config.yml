@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Mingjian feng / Site Title"
+title                    : "Mingjian Feng"
 title_separator          : "-"
 name                     : &name "Mingjian Feng"
 description              : &description "personal description"
@@ -24,7 +24,7 @@ author:
   avatar           : "myphoto.png"
   name             : "Mingjian Feng"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
+  bio              : "I write code. Occasionally, it even works!"
   location         : "Guang Zhou, China"
   employer         : "Sun Yat-sen University"
   uri              : # URL
