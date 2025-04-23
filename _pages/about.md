@@ -11,7 +11,6 @@ I'm a master's student in the third year at [School of Computer Science and Engi
 
 I am very fortunate to be advised by [Prof. Kai Huang](https://www.usilab.cn/) of Robotic and Intelligence Computing Lab from [School of Computer Science and Engineering]([https://cse.sysu.edu.cn/]), Sun Yat-sen University. 
 
-You can find my CV here: [My Curriculum Vitae](../assets/Curriculum_Vitae.pdf).
 
 - Email: [fengmj8@mail2.sysu.edu.cn](fengmj8@mail2.sysu.edu.cn) 
 - Github: [https://github.com/mouhefanggai2333](https://github.com/mouhefanggai2333) 
